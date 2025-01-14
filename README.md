@@ -2,3 +2,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Milk
+- Bread
+- Hummus
